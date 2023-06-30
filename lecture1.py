@@ -12,11 +12,13 @@ print(3.1415)
 
 string = "Hello World!"
 integer = 1234567890
-float = 3.1415
+floatnum = 3.1415
 
 print(string)
 print(integer)
-print(float)
+print(floatnum)
+
+print(string, integer, floatnum)
 
 # input
 
