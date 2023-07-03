@@ -14,15 +14,15 @@ curriculum
 7.2 parameter
 7.3 return
 7.4 add, sub, mul, div
-8. class
-8.1 basic of class
-8.2 class variable
-8.3 class function
-8.4 class isntance
-8.5 class constructor, destructor
-8.6 class inheritance
-9. library
-10. module
+8. library
+9. module
+10. class
+10.1 basic of class
+10.2 class variable
+10.3 class function
+10.4 class isntance
+10.5 class constructor, destructor
+10.6 class inheritance
 11. file
 12. exception
 13. database
@@ -42,35 +42,33 @@ curriculum
 7/5
 7. function
 7.1 basic of function
-
-7/6
 7.2 parameter
 7.3 return
 
-7/7
+7/6
 7.4 add, sub, mul, div
 
+7/7
+8. library
+9. module
+
 7/10
-8. class
-8.1 basic of class
-8.2 class variable
-8.3 class function
+10. class
+10.1 basic of class
+10.2 class variable
+10.3 class function
 
 7/11
-8.4 class isntance
-8.5 class constructor, destructor
-8.6 class inheritance
+10.4 class isntance
+10.5 class constructor, destructor
+10.6 class inheritance
 
 7/12
-9. library
-10. module
-
-7/13
 11. file
 12. exception
 
-7/14
+7/13
 13. database
 
-7/15
+7/14
 14. project
