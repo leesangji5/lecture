@@ -15,5 +15,4 @@ while True:
 # module
 import myModule
 
-print(myModule.sum()
-)
+print(myModule.sum(1, 2))

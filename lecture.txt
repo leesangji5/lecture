@@ -2,6 +2,7 @@ python version 3.11.3
 
 curriculum
 
+0. envirement setting
 1. print
 2. variables
 3. input
@@ -29,23 +30,24 @@ curriculum
 14. project
 
 7/3
+0. envirement setting
+
+7/4
 1. print
 2. variables
 3. input
 4. if
 
-7/4
+7/5
 5. for
 5.1 list
 6. while
 
-7/5
+7/6
 7. function
 7.1 basic of function
 7.2 parameter
 7.3 return
-
-7/6
 7.4 add, sub, mul, div
 
 7/7
@@ -61,6 +63,7 @@ curriculum
 7/11
 10.4 class isntance
 10.5 class constructor, destructor
+https://blog.hexabrain.net/285
 10.6 class inheritance
 
 7/12

@@ -32,7 +32,7 @@ print(name)
 
 
 def printName(name):
-    string = "Hello, " + name
+    string = "Hello, " + name   
     return string
 
 name = printName("sangji")
