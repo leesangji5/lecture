@@ -23,10 +23,6 @@ print("You age: " + age)
 print("Your phone numbe: " + phone)
 
 # if elif else
-name = input("your name?")
-age = input("your age?")
-phone = input("your phone number?")
-
 if name == "sangji":
     print("Hello, Sangji")
 elif name == "hyongmin":
